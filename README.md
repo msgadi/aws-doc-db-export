@@ -1,4 +1,4 @@
-# AWS DocumentDB CSV Export Tool 🚀
+# AWS DocumentDB Export Tool 🚀
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 [![Next.js](https://img.shields.io/badge/Next.js-15.0-black)](https://nextjs.org/)
@@ -126,6 +126,6 @@ Architecture diagram coming soon!
 
 ---
 
-Built with ❤️ by [Your Name]
+Built with ❤️ by Mohammed Gadi
 
 [⬆ back to top](#aws-documentdb-csv-export-tool-)
